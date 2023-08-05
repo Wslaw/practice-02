@@ -1,7 +1,7 @@
 /**
   |============================
   | include css partials with
-  | default @import url()
+  | default @import url() 
   |============================
 */
 @import url('../../node_modules/modern-normalize/modern-normalize.css');
