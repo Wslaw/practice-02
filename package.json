@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/fs-94-vite/",
+    "build": "vite build --base=/practice-02/",
     "preview": "vite preview"
   },
   "devDependencies": {
